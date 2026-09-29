@@ -1,0 +1,27 @@
+{
+  "python": "3.14.2 (v3.14.2:df793163d58, Dec  5 2025, 12:18:06) [Clang 16.0.0 (clang-1600.0.26.6)]",
+  "platform": "macOS-26.6.2-arm64-arm-64bit-Mach-O",
+  "numpy": "2.4.2",
+  "scipy": "1.17.1",
+  "pandas": "2.3.3",
+  "source_code_sha256": {
+    "__init__.py": "90157ec61e68d9145f819752e679da6787df369a1923ced2136728f3e7ece319",
+    "__main__.py": "e91d558da551e5bc3ae7b46c073cba1915b95c9119098cd0ee9bcc628949dc68",
+    "adapters.py": "8c41ae472dede09837f2e825597f2f1be66e74048ae1aa12ce6bcc310160aea1",
+    "arsenite.py": "f23fb31bad2c78d97368e43216b4d7cebf8284cfdba7bdbe2bd10a08aa37a080",
+    "complete.py": "b747462871e4caef164844794fe2a67a23559fefe48aff6c66b885c84335ff09",
+    "counts.py": "23bbe58122d16a1f90541c6ee249a859e85b215d6be48ffde51dc847aad24d29",
+    "experiments.py": "ca53a74051770a1fcfd8b923831106526c572793ebd41c23b1206bb58d2d43d0",
+    "extension_sources.py": "797878e734bd3b69cc23f8ef01457371baba896257aa4c701f4654cbab5667d2",
+    "inference.py": "ecb60399a41c6e22efbf217d5e1b767c7fbb99bb9c10c3e934e821572e3882d8",
+    "models.py": "a4b6cb8ecd17fedffbf16a11bd38316343df7d8efbadcb8608f61052272f89bc",
+    "run.py": "dbfdd4c303712931955cc4b2f92ccda2f594be3915c69712d39b7744ad861cba",
+    "secretome.py": "532152c83cad3b820aaf1e25d88f4d03e1cb7e2569b598c9a2182ee591de85b6",
+    "single_cell.py": "a7134af5774dc17532b3abdbb204ae2ef5c0aaed251054c18bc394805bc97fbc",
+    "sources.py": "047868a066f92bf24fac64cb27b9a84108403bd608eca73e8d54f4ca4d5edede",
+    "validation.py": "b23e0aa8debde02478f7de889100f97152ec41bd27e35eecd3ebb4be09910d58"
+  },
+  "trials": 25,
+  "starts": 3,
+  "data_dir": "/Users/julhashkazi/Documents/PythonScripts/hKCC/emd4_simulation/data/public"
+}

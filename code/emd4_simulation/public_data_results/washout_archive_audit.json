@@ -1,0 +1,327 @@
+{
+  "accession": "GSE222400",
+  "status": "excluded_pending_corrected_expression",
+  "files": [
+    {
+      "member": "GSM6922822_Untreated-control_1.txt.gz",
+      "header": "\"baseMean\"\t\"log2FoldChange\"\t\"lfcSE\"\t\"stat\"\t\"pvalue\"\t\"padj\"",
+      "sha256_uncompressed": "6746a5bd3c6f13e222f4ba509eb9b2acd808af462f7a13b8a7c7f1d6871e52d9",
+      "differential_expression_table": true
+    },
+    {
+      "member": "GSM6922823_Untreated-control_2.txt.gz",
+      "header": "\"baseMean\"\t\"log2FoldChange\"\t\"lfcSE\"\t\"stat\"\t\"pvalue\"\t\"padj\"",
+      "sha256_uncompressed": "6746a5bd3c6f13e222f4ba509eb9b2acd808af462f7a13b8a7c7f1d6871e52d9",
+      "differential_expression_table": true
+    },
+    {
+      "member": "GSM6922824_Replicative_Sen_1.txt.gz",
+      "header": "\"baseMean\"\t\"log2FoldChange\"\t\"lfcSE\"\t\"stat\"\t\"pvalue\"\t\"padj\"",
+      "sha256_uncompressed": "6746a5bd3c6f13e222f4ba509eb9b2acd808af462f7a13b8a7c7f1d6871e52d9",
+      "differential_expression_table": true
+    },
+    {
+      "member": "GSM6922825_Replicative_Sen_2.txt.gz",
+      "header": "\"baseMean\"\t\"log2FoldChange\"\t\"lfcSE\"\t\"stat\"\t\"pvalue\"\t\"padj\"",
+      "sha256_uncompressed": "6746a5bd3c6f13e222f4ba509eb9b2acd808af462f7a13b8a7c7f1d6871e52d9",
+      "differential_expression_table": true
+    },
+    {
+      "member": "GSM6922826_SDS_D0_1.txt.gz",
+      "header": "\tbaseMean\tlog2FoldChange\tlfcSE\tstat\tpvalue\tpadj",
+      "sha256_uncompressed": "8611b28b047f50e2b638182a19e41c9664f48c8ee5d2f45bc2feb51c369be159",
+      "differential_expression_table": true
+    },
+    {
+      "member": "GSM6922827_SDS_D0_2.txt.gz",
+      "header": "\tbaseMean\tlog2FoldChange\tlfcSE\tstat\tpvalue\tpadj",
+      "sha256_uncompressed": "8611b28b047f50e2b638182a19e41c9664f48c8ee5d2f45bc2feb51c369be159",
+      "differential_expression_table": true
+    },
+    {
+      "member": "GSM6922828_SDS_D1_1.txt.gz",
+      "header": "\tbaseMean\tlog2FoldChange\tlfcSE\tstat\tpvalue\tpadj",
+      "sha256_uncompressed": "ea1390e82f0b23259b3d481fd4c4022a63520f14246cc132260ba1e212341b7d",
+      "differential_expression_table": true
+    },
+    {
+      "member": "GSM6922829_SDS_D1_2.txt.gz",
+      "header": "\tbaseMean\tlog2FoldChange\tlfcSE\tstat\tpvalue\tpadj",
+      "sha256_uncompressed": "ea1390e82f0b23259b3d481fd4c4022a63520f14246cc132260ba1e212341b7d",
+      "differential_expression_table": true
+    },
+    {
+      "member": "GSM6922830_SDS_D2_1.txt.gz",
+      "header": "\"baseMean\"\t\"log2FoldChange\"\t\"lfcSE\"\t\"stat\"\t\"pvalue\"\t\"padj\"",
+      "sha256_uncompressed": "a0ef7c8d97cfec63cd3958bf8732cc37a74c3478b885aeb3fbdc6201245d55c8",
+      "differential_expression_table": true
+    },
+    {
+      "member": "GSM6922831_SDS_D2_2.txt.gz",
+      "header": "\"baseMean\"\t\"log2FoldChange\"\t\"lfcSE\"\t\"stat\"\t\"pvalue\"\t\"padj\"",
+      "sha256_uncompressed": "a0ef7c8d97cfec63cd3958bf8732cc37a74c3478b885aeb3fbdc6201245d55c8",
+      "differential_expression_table": true
+    },
+    {
+      "member": "GSM6922832_SDS_D3_1.txt.gz",
+      "header": "\tbaseMean\tlog2FoldChange\tlfcSE\tstat\tpvalue\tpadj",
+      "sha256_uncompressed": "ecb2a75ac55eb0bbfcf475f124b3d74dee5d3fbb693e52c5ee8c149e9f2dcf71",
+      "differential_expression_table": true
+    },
+    {
+      "member": "GSM6922833_SDS_D3_2.txt.gz",
+      "header": "\tbaseMean\tlog2FoldChange\tlfcSE\tstat\tpvalue\tpadj",
+      "sha256_uncompressed": "ecb2a75ac55eb0bbfcf475f124b3d74dee5d3fbb693e52c5ee8c149e9f2dcf71",
+      "differential_expression_table": true
+    },
+    {
+      "member": "GSM6922834_SDS_D4_1.txt.gz",
+      "header": "\tbaseMean\tlog2FoldChange\tlfcSE\tstat\tpvalue\tpadj",
+      "sha256_uncompressed": "57214b13368d4a5251a2bf6ae1afbaee22f4f70ab12ca1e7618e59ebc21ad53b",
+      "differential_expression_table": true
+    },
+    {
+      "member": "GSM6922835_SDS_D4_2.txt.gz",
+      "header": "\tbaseMean\tlog2FoldChange\tlfcSE\tstat\tpvalue\tpadj",
+      "sha256_uncompressed": "57214b13368d4a5251a2bf6ae1afbaee22f4f70ab12ca1e7618e59ebc21ad53b",
+      "differential_expression_table": true
+    },
+    {
+      "member": "GSM6922836_SDS_D6_1.txt.gz",
+      "header": "\tbaseMean\tlog2FoldChange\tlfcSE\tstat\tpvalue\tpadj",
+      "sha256_uncompressed": "ccba25339b308be155fe0a25bf5b8db74cb0ef40a298e6553bfa30d10e85f2ba",
+      "differential_expression_table": true
+    },
+    {
+      "member": "GSM6922837_SDS_D6_2.txt.gz",
+      "header": "\tbaseMean\tlog2FoldChange\tlfcSE\tstat\tpvalue\tpadj",
+      "sha256_uncompressed": "ccba25339b308be155fe0a25bf5b8db74cb0ef40a298e6553bfa30d10e85f2ba",
+      "differential_expression_table": true
+    },
+    {
+      "member": "GSM6922838_SDS_D8_1.txt.gz",
+      "header": "\tbaseMean\tlog2FoldChange\tlfcSE\tstat\tpvalue\tpadj",
+      "sha256_uncompressed": "4a7df9d912a7b0af198011d0562b893513d9dfd0253bc38869adb093be1dd280",
+      "differential_expression_table": true
+    },
+    {
+      "member": "GSM6922839_SDS_D8_2.txt.gz",
+      "header": "\tbaseMean\tlog2FoldChange\tlfcSE\tstat\tpvalue\tpadj",
+      "sha256_uncompressed": "4a7df9d912a7b0af198011d0562b893513d9dfd0253bc38869adb093be1dd280",
+      "differential_expression_table": true
+    },
+    {
+      "member": "GSM6922840_SDS_D16_1.txt.gz",
+      "header": "\tbaseMean\tlog2FoldChange\tlfcSE\tstat\tpvalue\tpadj",
+      "sha256_uncompressed": "1c192a51f9cd04a6a73203994e9eb846021fb996b6520e3774f6778fb013a5b3",
+      "differential_expression_table": true
+    },
+    {
+      "member": "GSM6922841_SDS_D16_2.txt.gz",
+      "header": "\tbaseMean\tlog2FoldChange\tlfcSE\tstat\tpvalue\tpadj",
+      "sha256_uncompressed": "1c192a51f9cd04a6a73203994e9eb846021fb996b6520e3774f6778fb013a5b3",
+      "differential_expression_table": true
+    },
+    {
+      "member": "GSM6922842_KCl_D0_1.txt.gz",
+      "header": "\"baseMean\"\t\"log2FoldChange\"\t\"lfcSE\"\t\"stat\"\t\"pvalue\"\t\"padj\"",
+      "sha256_uncompressed": "d357d0fa8724f860201e3431d3522f4df77b83d50dbac8ecb3f5cc35ff9a799d",
+      "differential_expression_table": true
+    },
+    {
+      "member": "GSM6922843_KCl_D0_2.txt.gz",
+      "header": "\"baseMean\"\t\"log2FoldChange\"\t\"lfcSE\"\t\"stat\"\t\"pvalue\"\t\"padj\"",
+      "sha256_uncompressed": "d357d0fa8724f860201e3431d3522f4df77b83d50dbac8ecb3f5cc35ff9a799d",
+      "differential_expression_table": true
+    },
+    {
+      "member": "GSM6922844_KCl_D1_1.txt.gz",
+      "header": "\"baseMean\"\t\"log2FoldChange\"\t\"lfcSE\"\t\"stat\"\t\"pvalue\"\t\"padj\"",
+      "sha256_uncompressed": "87f648491930702ecadf959b90718b49c1471b6845fb08d4544b3bdab367eff2",
+      "differential_expression_table": true
+    },
+    {
+      "member": "GSM6922845_KCl_D1_2.txt.gz",
+      "header": "\"baseMean\"\t\"log2FoldChange\"\t\"lfcSE\"\t\"stat\"\t\"pvalue\"\t\"padj\"",
+      "sha256_uncompressed": "87f648491930702ecadf959b90718b49c1471b6845fb08d4544b3bdab367eff2",
+      "differential_expression_table": true
+    },
+    {
+      "member": "GSM6922846_KCl_D2_1.txt.gz",
+      "header": "\"baseMean\"\t\"log2FoldChange\"\t\"lfcSE\"\t\"stat\"\t\"pvalue\"\t\"padj\"",
+      "sha256_uncompressed": "296768200d84139d4e520af975d66b86de26441a82a3acba7f6c11b1d04724d4",
+      "differential_expression_table": true
+    },
+    {
+      "member": "GSM6922847_KCl_D2_2.txt.gz",
+      "header": "\"baseMean\"\t\"log2FoldChange\"\t\"lfcSE\"\t\"stat\"\t\"pvalue\"\t\"padj\"",
+      "sha256_uncompressed": "296768200d84139d4e520af975d66b86de26441a82a3acba7f6c11b1d04724d4",
+      "differential_expression_table": true
+    },
+    {
+      "member": "GSM6922848_KCl_D3_1.txt.gz",
+      "header": "\"baseMean\"\t\"log2FoldChange\"\t\"lfcSE\"\t\"stat\"\t\"pvalue\"\t\"padj\"",
+      "sha256_uncompressed": "d509a5dd810fe8ccd74e8ba995179135da9d442f527da7fe9053cac4196e8b17",
+      "differential_expression_table": true
+    },
+    {
+      "member": "GSM6922849_KCl_D3_2.txt.gz",
+      "header": "\"baseMean\"\t\"log2FoldChange\"\t\"lfcSE\"\t\"stat\"\t\"pvalue\"\t\"padj\"",
+      "sha256_uncompressed": "d509a5dd810fe8ccd74e8ba995179135da9d442f527da7fe9053cac4196e8b17",
+      "differential_expression_table": true
+    },
+    {
+      "member": "GSM6922850_KCl_D4_1.txt.gz",
+      "header": "\"baseMean\"\t\"log2FoldChange\"\t\"lfcSE\"\t\"stat\"\t\"pvalue\"\t\"padj\"",
+      "sha256_uncompressed": "dccaaf9aebbc6380017a8b0cf7486e7cfa1989948db4c7dbec24c9b484c6fa9e",
+      "differential_expression_table": true
+    },
+    {
+      "member": "GSM6922851_KCl_D4_2.txt.gz",
+      "header": "\"baseMean\"\t\"log2FoldChange\"\t\"lfcSE\"\t\"stat\"\t\"pvalue\"\t\"padj\"",
+      "sha256_uncompressed": "dccaaf9aebbc6380017a8b0cf7486e7cfa1989948db4c7dbec24c9b484c6fa9e",
+      "differential_expression_table": true
+    },
+    {
+      "member": "GSM6922852_KCl_D6_1.txt.gz",
+      "header": "\"baseMean\"\t\"log2FoldChange\"\t\"lfcSE\"\t\"stat\"\t\"pvalue\"\t\"padj\"",
+      "sha256_uncompressed": "fab81aa0b567573cc5fbdf39030264095921bf203c99428adbfc207d38633c89",
+      "differential_expression_table": true
+    },
+    {
+      "member": "GSM6922853_KCl_D6_2.txt.gz",
+      "header": "\"baseMean\"\t\"log2FoldChange\"\t\"lfcSE\"\t\"stat\"\t\"pvalue\"\t\"padj\"",
+      "sha256_uncompressed": "fab81aa0b567573cc5fbdf39030264095921bf203c99428adbfc207d38633c89",
+      "differential_expression_table": true
+    },
+    {
+      "member": "GSM6922854_KCl_D8_1.txt.gz",
+      "header": "\"baseMean\"\t\"log2FoldChange\"\t\"lfcSE\"\t\"stat\"\t\"pvalue\"\t\"padj\"",
+      "sha256_uncompressed": "a5dcc81863e4f80e17f3a288c1f56fd6c0d7cd962e226621e665ec20bc325b0e",
+      "differential_expression_table": true
+    },
+    {
+      "member": "GSM6922855_KCl_D8_2.txt.gz",
+      "header": "\"baseMean\"\t\"log2FoldChange\"\t\"lfcSE\"\t\"stat\"\t\"pvalue\"\t\"padj\"",
+      "sha256_uncompressed": "a5dcc81863e4f80e17f3a288c1f56fd6c0d7cd962e226621e665ec20bc325b0e",
+      "differential_expression_table": true
+    },
+    {
+      "member": "GSM6922856_KCl_D16_1.txt.gz",
+      "header": "\"baseMean\"\t\"log2FoldChange\"\t\"lfcSE\"\t\"stat\"\t\"pvalue\"\t\"padj\"",
+      "sha256_uncompressed": "3fe3bd1718220eba80ecb685decb462a4204bfb06792ba6b241cd9c6c3c7e29b",
+      "differential_expression_table": true
+    },
+    {
+      "member": "GSM6922857_KCl_D16_2.txt.gz",
+      "header": "\"baseMean\"\t\"log2FoldChange\"\t\"lfcSE\"\t\"stat\"\t\"pvalue\"\t\"padj\"",
+      "sha256_uncompressed": "3fe3bd1718220eba80ecb685decb462a4204bfb06792ba6b241cd9c6c3c7e29b",
+      "differential_expression_table": true
+    },
+    {
+      "member": "GSM6922858_DXR_D0_1.txt.gz",
+      "header": "\tbaseMean\tlog2FoldChange\tlfcSE\tstat\tpvalue\tpadj",
+      "sha256_uncompressed": "ce9a423236b1267376cb273f0edece10c87173e06f84071ccd95af1545b24c33",
+      "differential_expression_table": true
+    },
+    {
+      "member": "GSM6922859_DXR_D0_2.txt.gz",
+      "header": "\tbaseMean\tlog2FoldChange\tlfcSE\tstat\tpvalue\tpadj",
+      "sha256_uncompressed": "ce9a423236b1267376cb273f0edece10c87173e06f84071ccd95af1545b24c33",
+      "differential_expression_table": true
+    },
+    {
+      "member": "GSM6922860_DXR_D1_1.txt.gz",
+      "header": "\tbaseMean\tlog2FoldChange\tlfcSE\tstat\tpvalue\tpadj",
+      "sha256_uncompressed": "f0f7a66d9426a937c8aa7329a2fe851362efb7c1638610e726cf304806a2f57d",
+      "differential_expression_table": true
+    },
+    {
+      "member": "GSM6922861_DXR_D1_2.txt.gz",
+      "header": "\tbaseMean\tlog2FoldChange\tlfcSE\tstat\tpvalue\tpadj",
+      "sha256_uncompressed": "f0f7a66d9426a937c8aa7329a2fe851362efb7c1638610e726cf304806a2f57d",
+      "differential_expression_table": true
+    },
+    {
+      "member": "GSM6922862_DXR_D2_1.txt.gz",
+      "header": "\tbaseMean\tlog2FoldChange\tlfcSE\tstat\tpvalue\tpadj",
+      "sha256_uncompressed": "d4cfc173d80849da87cdcacc55da1560dd441fcf7982aac0639440704748277d",
+      "differential_expression_table": true
+    },
+    {
+      "member": "GSM6922863_DXR_D2_2.txt.gz",
+      "header": "\tbaseMean\tlog2FoldChange\tlfcSE\tstat\tpvalue\tpadj",
+      "sha256_uncompressed": "d4cfc173d80849da87cdcacc55da1560dd441fcf7982aac0639440704748277d",
+      "differential_expression_table": true
+    },
+    {
+      "member": "GSM6922864_DXR_D3_1.txt.gz",
+      "header": "\tbaseMean\tlog2FoldChange\tlfcSE\tstat\tpvalue\tpadj",
+      "sha256_uncompressed": "7b4c1b2613fe5c33a1b2be2e2185859280cc7f85fa1556d4a601c741e54c39da",
+      "differential_expression_table": true
+    },
+    {
+      "member": "GSM6922865_DXR_D3_2.txt.gz",
+      "header": "\tbaseMean\tlog2FoldChange\tlfcSE\tstat\tpvalue\tpadj",
+      "sha256_uncompressed": "7b4c1b2613fe5c33a1b2be2e2185859280cc7f85fa1556d4a601c741e54c39da",
+      "differential_expression_table": true
+    },
+    {
+      "member": "GSM6922866_DXR_D4_1.txt.gz",
+      "header": "\tbaseMean\tlog2FoldChange\tlfcSE\tstat\tpvalue\tpadj",
+      "sha256_uncompressed": "3a2922c6b06f46171b2a88805f3e055d1fc1701e959fb1c1ef1ae0301e54448f",
+      "differential_expression_table": true
+    },
+    {
+      "member": "GSM6922867_DXR_D4_2.txt.gz",
+      "header": "\tbaseMean\tlog2FoldChange\tlfcSE\tstat\tpvalue\tpadj",
+      "sha256_uncompressed": "3a2922c6b06f46171b2a88805f3e055d1fc1701e959fb1c1ef1ae0301e54448f",
+      "differential_expression_table": true
+    },
+    {
+      "member": "GSM6922868_DXR_D6_1.txt.gz",
+      "header": "\tbaseMean\tlog2FoldChange\tlfcSE\tstat\tpvalue\tpadj",
+      "sha256_uncompressed": "f72b482cbd0b6d32bcbf2c424dd87aca71ec7d8378272262e4604eaaf3d054c0",
+      "differential_expression_table": true
+    },
+    {
+      "member": "GSM6922869_DXR_D6_2.txt.gz",
+      "header": "\tbaseMean\tlog2FoldChange\tlfcSE\tstat\tpvalue\tpadj",
+      "sha256_uncompressed": "f72b482cbd0b6d32bcbf2c424dd87aca71ec7d8378272262e4604eaaf3d054c0",
+      "differential_expression_table": true
+    },
+    {
+      "member": "GSM6922870_DXR_D8_1.txt.gz",
+      "header": "\tbaseMean\tlog2FoldChange\tlfcSE\tstat\tpvalue\tpadj",
+      "sha256_uncompressed": "e70fd8b2be8523e638b62ec68f8accb7448c92c899c76afe0440d795cccfa543",
+      "differential_expression_table": true
+    },
+    {
+      "member": "GSM6922871_DXR_D8_2.txt.gz",
+      "header": "\tbaseMean\tlog2FoldChange\tlfcSE\tstat\tpvalue\tpadj",
+      "sha256_uncompressed": "e70fd8b2be8523e638b62ec68f8accb7448c92c899c76afe0440d795cccfa543",
+      "differential_expression_table": true
+    },
+    {
+      "member": "GSM6922872_DXR_D16_1.txt.gz",
+      "header": "\tbaseMean\tlog2FoldChange\tlfcSE\tstat\tpvalue\tpadj",
+      "sha256_uncompressed": "e39012493dbf8c8525c881159eca8a5518e136c3e9417159f78ba3084092b155",
+      "differential_expression_table": true
+    },
+    {
+      "member": "GSM6922873_DXR_D16_2.txt.gz",
+      "header": "\tbaseMean\tlog2FoldChange\tlfcSE\tstat\tpvalue\tpadj",
+      "sha256_uncompressed": "e39012493dbf8c8525c881159eca8a5518e136c3e9417159f78ba3084092b155",
+      "differential_expression_table": true
+    }
+  ],
+  "file_count": 52,
+  "DE_table_count": 52,
+  "unique_payloads": 25,
+  "reason": "Deposited files were checked as supplied. Differential-expression statistics and baseMean cannot be interpreted as individual-sample RPKM. No kinetic fit uses this archive.",
+  "protocol_only": {
+    "induction_hours": 24,
+    "D0_origin": "end_of_induction",
+    "medium_replacement_days": 4
+  }
+}

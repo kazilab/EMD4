@@ -1,0 +1,19 @@
+{
+  "verified_utc": "2026-09-26T06:54:23.088088+00:00",
+  "status": "passed",
+  "regression_test_suite": "58 passed in 14.41s",
+  "full_analysis_command": "python3 -m emd4_simulation.public_data complete --offline --trials 25 --starts 3",
+  "verified_source_files": 15,
+  "verified_pinned_inputs": 24,
+  "bulk_samples": 130,
+  "recomputed_withdrawal_holdout_scores": 36,
+  "training_normalization_reference_excludes_all_holdouts": true,
+  "target_data_used_for_source_refitting": false,
+  "synthetic_trials": 150,
+  "digitized_aggregate_means": 38,
+  "protein_comparison_rows": 6420,
+  "single_cells_after_QC": 10647,
+  "single_cell_matrices_reimported_with_coordinate_integrity_checks": true,
+  "figures_visually_reviewed": true,
+  "scientific_result": "Mixed support for component phenotypes; EMD4 feedback and biological threshold not established."
+}

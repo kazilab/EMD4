@@ -1,0 +1,227 @@
+{
+  "sources": [
+    {
+      "key": "ihh_metadata",
+      "filename": "GSE210140_family.soft.gz",
+      "url": "https://ftp.ncbi.nlm.nih.gov/geo/series/GSE210nnn/GSE210140/soft/GSE210140_family.soft.gz",
+      "accession": "GSE210140",
+      "evidence": "other_system_measurement",
+      "description": "IHH: doxorubicin and conditioned-medium recipients; protocol and sample metadata.",
+      "max_bytes": 100000000,
+      "sha256": "808f44b13847c4776af644ca9d559742710154b4757443c5f4c17f1534c63efc",
+      "bytes": 3297,
+      "retrieved_utc": "2026-09-24T21:10:00.900077+00:00"
+    },
+    {
+      "key": "ihh_tpm",
+      "filename": "GSE210140_UJ3100_exp_gene_level_tpm.txt.gz",
+      "url": "https://ftp.ncbi.nlm.nih.gov/geo/series/GSE210nnn/GSE210140/suppl/GSE210140_UJ3100_exp_gene_level_tpm.txt.gz",
+      "accession": "GSE210140",
+      "evidence": "other_system_measurement",
+      "description": "Published Kallisto TPM, 20 samples; RNA abundance, not SASP potency.",
+      "max_bytes": 100000000,
+      "sha256": "2586b93ded172a2835281a1a5e2d1f5ef9efb22d96833ce2316634604c1b340c",
+      "bytes": 1564207,
+      "retrieved_utc": "2026-09-24T21:10:02.292539+00:00"
+    },
+    {
+      "key": "ihh_counts",
+      "filename": "GSE210140_UJ3100_exp_gene_level_count.txt.gz",
+      "url": "https://ftp.ncbi.nlm.nih.gov/geo/series/GSE210nnn/GSE210140/suppl/GSE210140_UJ3100_exp_gene_level_count.txt.gz",
+      "accession": "GSE210140",
+      "evidence": "other_system_measurement",
+      "description": "Published estimated gene counts; retained for reproducibility.",
+      "max_bytes": 100000000,
+      "sha256": "e649f62c69b461ea118f007619d80b9fce14b90ba1ef23a0ef8d55467e61fa3b",
+      "bytes": 653686,
+      "retrieved_utc": "2026-09-24T21:10:03.145926+00:00"
+    },
+    {
+      "key": "timecourse_metadata",
+      "filename": "GSE222400_family.soft.gz",
+      "url": "https://ftp.ncbi.nlm.nih.gov/geo/series/GSE222nnn/GSE222400/soft/GSE222400_family.soft.gz",
+      "accession": "GSE222400",
+      "evidence": "other_system_measurement",
+      "description": "WI-38: 24-hour induction, washout, and subsequent time course.",
+      "max_bytes": 100000000,
+      "sha256": "40b8c84801c9dcfdea0afd3cc731f5f3cd2ff51d4284bd10c97ee485ebda8693",
+      "bytes": 6083,
+      "retrieved_utc": "2026-09-24T21:10:03.556582+00:00"
+    },
+    {
+      "key": "timecourse_expression",
+      "filename": "GSE222400_RAW.tar",
+      "url": "https://ftp.ncbi.nlm.nih.gov/geo/series/GSE222nnn/GSE222400/suppl/GSE222400_RAW.tar",
+      "accession": "GSE222400",
+      "evidence": "other_system_measurement",
+      "description": "Published per-sample RPKM tables (archive named RAW by GEO); no raw-read processing.",
+      "max_bytes": 100000000,
+      "sha256": "f925c25b090a40b42a2512b357ecbfdd2697781908253715e03f23a07006bc16",
+      "bytes": 66201600,
+      "retrieved_utc": "2026-09-24T21:10:25.820400+00:00"
+    },
+    {
+      "key": "quiescence_metadata",
+      "filename": "GSE144397_family.soft.gz",
+      "url": "https://ftp.ncbi.nlm.nih.gov/geo/series/GSE144nnn/GSE144397/soft/GSE144397_family.soft.gz",
+      "accession": "GSE144397",
+      "evidence": "other_system_measurement",
+      "description": "WI-38 quiescence/OIS time courses; biological replicate metadata.",
+      "max_bytes": 100000000,
+      "sha256": "3f0e4601eaa3b5555ed5f6d32c3e9f3d65df3be5aab5f3a0852159371d99635e",
+      "bytes": 31553645,
+      "retrieved_utc": "2026-09-24T21:10:33.729670+00:00"
+    },
+    {
+      "key": "quiescence_expression",
+      "filename": "GSE144397_series_matrix.txt.gz",
+      "url": "https://ftp.ncbi.nlm.nih.gov/geo/series/GSE144nnn/GSE144397/matrix/GSE144397_series_matrix.txt.gz",
+      "accession": "GSE144397",
+      "evidence": "other_system_measurement",
+      "description": "Submitter-normalised Affymetrix expression, not RNA-seq counts.",
+      "max_bytes": 100000000,
+      "sha256": "b133dbfb844ea5ce0f3043560c52526fa1c258f9573ea5010f1172b72f2b404a",
+      "bytes": 3342762,
+      "retrieved_utc": "2026-09-24T21:10:35.316790+00:00"
+    },
+    {
+      "key": "arsenite_article",
+      "filename": "PMC11701098.xml",
+      "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC11701098/fullTextXML",
+      "accession": "PMC11701098",
+      "evidence": "matching_system_protocol",
+      "description": "Okamura 2024 Huh-7 arsenite protocol, captions and availability statement.",
+      "max_bytes": 100000000,
+      "sha256": "a0045b6527fa276621e026307f731bd9e6c88593dcb5596902791e7bd2475968",
+      "bytes": 106270,
+      "retrieved_utc": "2026-09-24T21:10:35.968946+00:00"
+    },
+    {
+      "key": "arsenite_fig2",
+      "filename": "ehpm-29-074-g002.jpg",
+      "url": "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/ac1c/11701098/252133875a16/ehpm-29-074-g002.jpg",
+      "accession": "PMC11701098",
+      "evidence": "matching_system_figure",
+      "description": "Published aggregate figure; no inferred individual replicates.",
+      "max_bytes": 100000000,
+      "sha256": "71bd78c30cd4ad6c176eceab1d1f7f5e50f2f69f4d03cc05bc2908f0a366b346",
+      "bytes": 168706,
+      "retrieved_utc": "2026-09-24T21:10:55.770073+00:00"
+    },
+    {
+      "key": "arsenite_fig5",
+      "filename": "ehpm-29-074-g005.jpg",
+      "url": "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/ac1c/11701098/acfabc7002a5/ehpm-29-074-g005.jpg",
+      "accession": "PMC11701098",
+      "evidence": "matching_system_figure",
+      "description": "Published aggregate figure; no inferred individual replicates.",
+      "max_bytes": 100000000,
+      "sha256": "c923c4dd6f9849e26f018de7cd57393b40403a22c0c90f0fb4acbc0971f19d52",
+      "bytes": 159402,
+      "retrieved_utc": "2026-09-24T21:10:56.250649+00:00"
+    },
+    {
+      "key": "arsenite_fig6",
+      "filename": "ehpm-29-074-g006.jpg",
+      "url": "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/ac1c/11701098/c7c571510afe/ehpm-29-074-g006.jpg",
+      "accession": "PMC11701098",
+      "evidence": "matching_system_figure",
+      "description": "Published aggregate figure; no inferred individual replicates.",
+      "max_bytes": 100000000,
+      "sha256": "d1c7de57d7868ae818379b6e383f15fb88d8f6a514e4c7547c544b78a45d7d40",
+      "bytes": 123587,
+      "retrieved_utc": "2026-09-24T21:10:57.024735+00:00"
+    }
+  ],
+  "current_input_declarations": [
+    {
+      "key": "ihh_metadata",
+      "filename": "GSE210140_family.soft.gz",
+      "url": "https://ftp.ncbi.nlm.nih.gov/geo/series/GSE210nnn/GSE210140/soft/GSE210140_family.soft.gz",
+      "accession": "GSE210140",
+      "evidence": "other_system_measurement",
+      "description": "IHH: doxorubicin and conditioned-medium recipients; protocol and sample metadata.",
+      "max_bytes": 100000000
+    },
+    {
+      "key": "ihh_tpm",
+      "filename": "GSE210140_UJ3100_exp_gene_level_tpm.txt.gz",
+      "url": "https://ftp.ncbi.nlm.nih.gov/geo/series/GSE210nnn/GSE210140/suppl/GSE210140_UJ3100_exp_gene_level_tpm.txt.gz",
+      "accession": "GSE210140",
+      "evidence": "other_system_measurement",
+      "description": "Published Kallisto TPM, 20 samples; RNA abundance, not SASP potency.",
+      "max_bytes": 100000000
+    },
+    {
+      "key": "ihh_counts",
+      "filename": "GSE210140_UJ3100_exp_gene_level_count.txt.gz",
+      "url": "https://ftp.ncbi.nlm.nih.gov/geo/series/GSE210nnn/GSE210140/suppl/GSE210140_UJ3100_exp_gene_level_count.txt.gz",
+      "accession": "GSE210140",
+      "evidence": "other_system_measurement",
+      "description": "Published estimated gene counts; retained for reproducibility.",
+      "max_bytes": 100000000
+    },
+    {
+      "key": "timecourse_metadata",
+      "filename": "GSE222400_family.soft.gz",
+      "url": "https://ftp.ncbi.nlm.nih.gov/geo/series/GSE222nnn/GSE222400/soft/GSE222400_family.soft.gz",
+      "accession": "GSE222400",
+      "evidence": "other_system_measurement",
+      "description": "WI-38: 24-hour induction, washout, and subsequent time course.",
+      "max_bytes": 100000000
+    },
+    {
+      "key": "timecourse_expression",
+      "filename": "GSE222400_RAW.tar",
+      "url": "https://ftp.ncbi.nlm.nih.gov/geo/series/GSE222nnn/GSE222400/suppl/GSE222400_RAW.tar",
+      "accession": "GSE222400",
+      "evidence": "other_system_measurement",
+      "description": "Archive described as RPKM in metadata; audit finds DE tables, excluded from expression fitting.",
+      "max_bytes": 100000000
+    },
+    {
+      "key": "quiescence_metadata",
+      "filename": "GSE144397_family.soft.gz",
+      "url": "https://ftp.ncbi.nlm.nih.gov/geo/series/GSE144nnn/GSE144397/soft/GSE144397_family.soft.gz",
+      "accession": "GSE144397",
+      "evidence": "other_system_measurement",
+      "description": "WI-38 quiescence/OIS time courses; biological replicate metadata.",
+      "max_bytes": 100000000
+    },
+    {
+      "key": "quiescence_expression",
+      "filename": "GSE144397_series_matrix.txt.gz",
+      "url": "https://ftp.ncbi.nlm.nih.gov/geo/series/GSE144nnn/GSE144397/matrix/GSE144397_series_matrix.txt.gz",
+      "accession": "GSE144397",
+      "evidence": "other_system_measurement",
+      "description": "Submitter-normalised Affymetrix expression, not RNA-seq counts.",
+      "max_bytes": 100000000
+    },
+    {
+      "key": "arsenite_article",
+      "filename": "PMC11701098.xml",
+      "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC11701098/fullTextXML",
+      "accession": "PMC11701098",
+      "evidence": "matching_system_protocol",
+      "description": "Okamura 2024 Huh-7 arsenite protocol, captions and availability statement.",
+      "max_bytes": 100000000
+    }
+  ],
+  "supporting_resources": {
+    "PXD013721": {
+      "url": "https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.3000599",
+      "status": "supporting_public_resource",
+      "use": "Secretome composition; protein abundance alone cannot calibrate functional q_sec."
+    },
+    "GSE250041": {
+      "url": "https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE250041",
+      "status": "optional_future_assay_extension",
+      "use": "CITE-seq heterogeneity; not calibration of the six existing protein/functional assays."
+    },
+    "PMID36089002": {
+      "url": "https://pubmed.ncbi.nlm.nih.gov/36089002/",
+      "status": "published_summary_only",
+      "use": "Arsenite LX-2 conditioned medium affects Huh-7 migration, not measured secondary-senescence feedback."
+    }
+  }
+}

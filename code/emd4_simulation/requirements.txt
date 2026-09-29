@@ -1,0 +1,12 @@
+# Core EMD4 simulation: ODE integration, equilibrium and bifurcation analysis,
+# null fitting, the uncertainty ensemble, the spatial lattice and figure export.
+numpy>=2.0
+scipy>=1.13
+matplotlib>=3.8
+
+# Public-data comparison only: tabular import and figure digitisation.
+pandas>=2.2
+pillow>=10.0
+
+# Regression tests only.
+pytest>=8.0
