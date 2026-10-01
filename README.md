@@ -1,4 +1,4 @@
-# EMD4: minimal reproducibility deposit
+# EMD4: illustrative mechanistic simulation
 
 An illustrative mechanistic simulation of EMD4 (persistent cellular senescence
 with a functionally characterised senescence-associated secretory phenotype,
