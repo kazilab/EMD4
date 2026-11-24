@@ -1,0 +1,11 @@
+# Simulation
+numpy>=2.0
+scipy>=1.13
+matplotlib>=3.8
+
+# Public-data analysis
+pandas>=2.2
+pillow>=10.0
+
+# Tests
+pytest>=8.0
